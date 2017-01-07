@@ -1,0 +1,8 @@
+01/05/2017 10:33:27 PM - SeleniumDriver - INFO: Element Found  with locator : Login locatorType : link
+01/05/2017 10:33:27 PM - SeleniumDriver - INFO: Click on element with locator : Login locatorType : link
+01/05/2017 10:33:31 PM - SeleniumDriver - INFO: Element Found  with locator : user_email locatorType : id
+01/05/2017 10:33:31 PM - SeleniumDriver - INFO: Send data on element with locator : user_email locatorType : id
+01/05/2017 10:33:31 PM - SeleniumDriver - INFO: Element Found  with locator : user_password locatorType : id
+01/05/2017 10:33:31 PM - SeleniumDriver - INFO: Send data on element with locator : user_password locatorType : id
+01/05/2017 10:33:31 PM - SeleniumDriver - INFO: Element Found  with locator : commit locatorType : name
+01/05/2017 10:33:35 PM - SeleniumDriver - INFO: Click on element with locator : commit locatorType : name

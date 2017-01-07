@@ -1,0 +1,18 @@
+01/05/2017 10:39:03 PM - LoginPage - INFO: Element Found  with locator : Login locatorType : link
+01/05/2017 10:39:03 PM - LoginPage - INFO: Click on element with locator : Login locatorType : link
+01/05/2017 10:39:07 PM - LoginPage - INFO: Element Found  with locator : user_email locatorType : id
+01/05/2017 10:39:07 PM - LoginPage - INFO: Send data on element with locator : user_email locatorType : id
+01/05/2017 10:39:07 PM - LoginPage - INFO: Element Found  with locator : user_password locatorType : id
+01/05/2017 10:39:07 PM - LoginPage - INFO: Send data on element with locator : user_password locatorType : id
+01/05/2017 10:39:07 PM - LoginPage - INFO: Element Found  with locator : commit locatorType : name
+01/05/2017 10:39:07 PM - LoginPage - INFO: Click on element with locator : commit locatorType : name
+01/06/2017 06:50:20 AM - LoginPage - INFO: Element Found  with locator : Login locatorType : link
+01/06/2017 06:50:20 AM - LoginPage - INFO: Click on element with locator : Login locatorType : link
+01/06/2017 06:50:27 AM - LoginPage - INFO: Element Found  with locator : user_email locatorType : id
+01/06/2017 06:50:27 AM - LoginPage - INFO: Send data on element with locator : user_email locatorType : id
+01/06/2017 06:50:27 AM - LoginPage - INFO: Element Found  with locator : user_password locatorType : id
+01/06/2017 06:50:27 AM - LoginPage - INFO: Send data on element with locator : user_password locatorType : id
+01/06/2017 06:50:27 AM - LoginPage - INFO: Element Found  with locator : commit locatorType : name
+01/06/2017 06:50:27 AM - LoginPage - INFO: Click on element with locator : commit locatorType : name
+01/06/2017 06:50:34 AM - LoginPage - INFO: Element Found  with locator : //span[text()="User Settings"] locatorType : xpath
+01/06/2017 06:50:34 AM - LoginPage - INFO: Element Found with locator : //span[text()="User Settings"] locatorType : xpath
