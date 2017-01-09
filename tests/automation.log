@@ -1,0 +1,20 @@
+01/09/2017 10:08:09 AM - LoginPage - INFO: Element Found  with locator : Login locatorType : link
+01/09/2017 10:08:09 AM - LoginPage - INFO: Click on element with locator : Login locatorType : link
+01/09/2017 10:08:13 AM - LoginPage - INFO: Element Found  with locator : user_email locatorType : id
+01/09/2017 10:08:13 AM - LoginPage - INFO: Send data on element with locator : user_email locatorType : id
+01/09/2017 10:08:13 AM - LoginPage - INFO: Element Found  with locator : user_password locatorType : id
+01/09/2017 10:08:13 AM - LoginPage - INFO: Send data on element with locator : user_password locatorType : id
+01/09/2017 10:08:13 AM - LoginPage - INFO: Element Found  with locator : commit locatorType : name
+01/09/2017 10:08:15 AM - LoginPage - INFO: Click on element with locator : commit locatorType : name
+01/09/2017 10:08:15 AM - LoginPage - INFO: Element Found  with locator : //div[contains(text(),'Invalid email or password')] locatorType : xpath
+01/09/2017 10:08:15 AM - LoginPage - INFO: Element Found with locator : //div[contains(text(),'Invalid email or password')] locatorType : xpath
+01/09/2017 10:08:15 AM - LoginPage - INFO: Element Found  with locator : Login locatorType : link
+01/09/2017 10:08:19 AM - LoginPage - INFO: Click on element with locator : Login locatorType : link
+01/09/2017 10:08:19 AM - LoginPage - INFO: Element Found  with locator : user_email locatorType : id
+01/09/2017 10:08:20 AM - LoginPage - INFO: Send data on element with locator : user_email locatorType : id
+01/09/2017 10:08:20 AM - LoginPage - INFO: Element Found  with locator : user_password locatorType : id
+01/09/2017 10:08:20 AM - LoginPage - INFO: Send data on element with locator : user_password locatorType : id
+01/09/2017 10:08:20 AM - LoginPage - INFO: Element Found  with locator : commit locatorType : name
+01/09/2017 10:08:28 AM - LoginPage - INFO: Click on element with locator : commit locatorType : name
+01/09/2017 10:08:28 AM - LoginPage - INFO: Element Found  with locator : //span[text()="User Settings"] locatorType : xpath
+01/09/2017 10:08:28 AM - LoginPage - INFO: Element Found with locator : //span[text()="User Settings"] locatorType : xpath
